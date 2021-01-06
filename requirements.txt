@@ -1,0 +1,15 @@
+platform==1.0.8
+yaml==3.13
+csv==1.0
+requests==2.23.0
+scipy==1.4.1
+numpy==1.19.4
+pandas==1.1.5
+torch==1.7.0+cu101
+scipy.ndimage==2.0
+json==2.0.9
+fastai==2.1.10
+re==2.2.1
+matplotlib==3.2.2
+PIL.Image==7.0.0
+ipython==5.5.0
